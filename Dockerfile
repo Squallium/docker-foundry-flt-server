@@ -12,4 +12,5 @@ VOLUME ["/var/foundry"]
 ##            EXPOSE PORTS             ##
 #########################################
 EXPOSE 4101-4102
-
+EXPOSE 5053
+EXPOSE 38601
